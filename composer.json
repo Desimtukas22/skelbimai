@@ -1,0 +1,15 @@
+{
+    "name": "rasa/skelbimai",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rasa",
+            "email": "raconn2003@yahoo.co.uk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": "app/code"
+        }
+    }
+}
